@@ -1,0 +1,3 @@
+Name: Tõnis
+Color: Grey
+Food: Salmon
